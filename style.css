@@ -1,0 +1,27 @@
+h1 {
+
+   color: darkred;
+   text-align: center;
+   margin-bottom: 100px;
+   margin-top: 50px;
+}
+
+h3 {
+
+    color: darkred;
+}
+
+.bug {
+    
+    position: relative;
+    float: right;
+}
+
+body {
+
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    color: darkblue;
+    
+}
