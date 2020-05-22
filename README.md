@@ -1,1 +1,3 @@
-https://mikyerinaldo.github.io/markdown-warmup-html-mikye/
+The point: learning HTML and CSS
+
+Layout of an exercise on the principle of the exquisite corpse.
